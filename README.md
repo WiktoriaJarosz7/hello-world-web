@@ -1,9 +1,9 @@
 # hello-world-web
 krótki opis
 
-##Instalacja
-  1.Zainstaluj plik kotkigurom.exe
-  2.Ciesz się kotkami
+##Instalation
+  1.Kochać kotki
+  2.Ciesz sie kotakmi
   
 ##Przykład użycia
   1. Pamiętaj : Kochać kotki i jakoś zadziała
